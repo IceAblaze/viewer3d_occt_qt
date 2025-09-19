@@ -1,0 +1,37 @@
+[
+  {
+    "length": 200,
+    "width": 100,
+    "thickness": 30
+  },
+  {
+    "uuid": "H1",
+    "surfaceCenter": {
+      "x": 50,
+      "y": 50,
+      "z": 30
+    },
+    "diameter": 16,
+    "depth": 20,
+    "processDirection": {
+      "x": 0,
+      "y": 0,
+      "z": -1
+    }
+  },
+  {
+    "uuid": "H2",
+    "surfaceCenter": {
+      "x": 120,
+      "y": 40,
+      "z": 30
+    },
+    "diameter": 10,
+    "depth": 25,
+    "processDirection": {
+      "x": 0.2,
+      "y": 0.0,
+      "z": -1.0
+    }
+  }
+]
